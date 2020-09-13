@@ -3,9 +3,11 @@
 
 ## Pantalla Principal
 
+<span style="display: inline">
 <img src="screenshot/Layout1_Empty.png" alt="Primer Pantalla sin Datos" width="250">
 
 <img src="screenshot/Layout1_Full.png" alt="Primer Pantalla con Datos" width="250">
+</span>
 
 ## Pantalla de Confirmación
 
