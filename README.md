@@ -1,18 +1,35 @@
----
-title: "Segundo Proyecto Android"
-author: "J Alfonso Martínez"
-date: "13/sep./2020"
-output:
-  html_document:
-    css: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-    self_contained: no
----
-
-<div class="container-fluid">
-    <h1 class="display-4"><b>Proyecto 2:</b> Formulario Android con Material Design</h1>
+<style>
+    *{
+        padding:0;
+        margin:0;
+        justify-content: center;
+    }
+    .display-4{
+        font-size: 2.5rem;
+        font-weight: 100;
+    }
+    .row{
+        display:flex;
+    }
+    .img-fluid{
+        width: 100%;
+    }
+    .img-gif{
+        width: 50%;
+    }
+    .col-6{
+        text-align:center;
+        padding: 0 10px;
+    }
+    .mt-5{
+        margin-top: 2rem;
+    }
+</style>
+<div class="container">
+    <h1 class="display-4"><b>Proyecto 2:</b><br>Formulario Android con Material Design</h1>
     <div class="row justify-content-center">
         <div class="col-6">
-            <img alt="Ejemplo del funcionamiento" src="screenshot/example.gif" class=""/>
+            <img alt="Ejemplo del funcionamiento" src="screenshot/example.gif" class="img-gif"/>
         </div>
     </div>
     <div class="row mt-5">
@@ -24,5 +41,3 @@ output:
         </div>
     </div>
 </div>
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
