@@ -1,13 +1,3 @@
----
-title: "Segundo Proyecto Android"
-author: "J Alfonso Martínez"
-date: "DATE"
-output:
-  html_document:
-    css: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-    self_contained: yes
----
-
 <div class="container-fluid">
     <h1 class="display-4"><b>Proyecto 2:</b> Formulario Android con Material Design</h1>
     <div class="row justify-content-center">
@@ -24,3 +14,5 @@ output:
         </div>
     </div>
 </div>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
