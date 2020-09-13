@@ -3,16 +3,16 @@
 
 ## Pantalla Principal
 
-<span style="display: inline">
-<img src="screenshot/Layout1_Empty.png" alt="Primer Pantalla sin Datos" width="250">
+<div style="display: inline">
+<img alt="Primer Pantalla sin Datos" src="screenshot/Layout1_Empty.png" width="250">
 
-<img src="screenshot/Layout1_Full.png" alt="Primer Pantalla con Datos" width="250">
-</span>
+<img alt="Primer Pantalla con Datos" src="screenshot/Layout1_Full.png" width="250">
+</div>
 
 ## Pantalla de Confirmación
 
-<img src="screenshot/Layout2.png" alt="Segunda pantalla con botón de editar" width="250">
+<img alt="Segunda pantalla con botón de editar" src="screenshot/Layout2.png" width="250">
 
 ## Ejemplo
 
-<img src="screenshot/example.gif" alt="Ejemplo del funcionamiento"/>
+<img alt="Ejemplo del funcionamiento" src="screenshot/example.gif" width="300"/>
