@@ -1,13 +1,5 @@
 <style>
-    *{
-        padding:0;
-        margin:0;
-        justify-content: center;
-    }
-    .display-4{
-        font-size: 2.5rem;
-        font-weight: 100;
-    }
+
     .row{
         display:flex;
     }
@@ -25,8 +17,10 @@
         margin-top: 2rem;
     }
 </style>
+
 <div class="container">
-    <h1 class="display-4"><b>Proyecto 2:</b><br>Formulario Android con Material Design</h1>
+    <h1 style="font-size: 2.5rem;
+        font-weight: 100;"><b>Proyecto 2:</b><br>Formulario Android con Material Design</h1>
     <div class="row justify-content-center">
         <div class="col-6">
             <img alt="Ejemplo del funcionamiento" src="screenshot/example.gif" class="img-gif"/>
