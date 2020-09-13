@@ -1,3 +1,13 @@
+---
+title: "Segundo Proyecto Android"
+author: "J Alfonso Martínez"
+date: "13/sep./2020"
+output:
+  html_document:
+    css: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+    self_contained: no
+---
+
 <div class="container-fluid">
     <h1 class="display-4"><b>Proyecto 2:</b> Formulario Android con Material Design</h1>
     <div class="row justify-content-center">
